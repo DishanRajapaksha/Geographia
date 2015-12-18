@@ -9,6 +9,17 @@ body {
   line-height: 1.5;
   color: #606c71;
   height: 100%;
+	 background-color: #000000;
+   padding: 0px;
+   
+ }
+
+#gradient
+{
+  width: 100%;
+  height: 800px;
+  padding: 0px;
+  margin: 0px;
 }
   
 
